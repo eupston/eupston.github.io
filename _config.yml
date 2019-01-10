@@ -24,7 +24,7 @@ description: Code Collections
 navbar-links:
   Audio:
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - test: "https://github.com/eupston/eupston.github.io/blob/master/notebook.html"
+    - test: "eupston.github.io/notebook.html"
   Author's Site: "https://www.eugeneupston.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
