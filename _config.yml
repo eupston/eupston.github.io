@@ -23,7 +23,6 @@ description: Code Collections
 # List of links in the navigation bar
 navbar-links:
   Audio:
-    - Learn markdown: "http://www.markdowntutorial.com/"
     - test: "eupston.github.io/notebook.html"
   Author's Site: "https://www.eugeneupston.com/"
 
