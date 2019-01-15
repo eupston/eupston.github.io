@@ -1,4 +1,5 @@
 ---
+title: Machine Learning
 ---
 
 # Audio Classifier Using Convolutional Neural Networks
