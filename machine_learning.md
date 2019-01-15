@@ -1,8 +1,6 @@
 ---
-layout: page
-title: Machine Learning
-
 ---
+
 # Audio Classifier Using Convolutional Neural Networks
 
 I wanted to expore the possiblity of training more then just two classes for an audio classifier. I then wanted to use this classfier to correctly idenify beatbox beats as a kick snare or high hat. This will eventually be used along side midi to convert beatboxes to midi information. Below is the end to end sequence of training, loading, and predicting a model. The Gif created shows how the model is learning what the best filters for the first convolutional layer are for classifing.
