@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Machine
 
 ---
 # Audio Classifier Using Convolutional Neural Networks
