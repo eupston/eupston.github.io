@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About me
+
 ---
 # Audio Classifier Using Convolutional Neural Networks
 
