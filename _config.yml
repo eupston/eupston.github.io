@@ -23,7 +23,7 @@ description: Code Collections
 # List of links in the navigation bar
 navbar-links:
   Machine Learning:
-    - test: "about me"
+    - test: "aboutme"
     - Audio CNN Classifier: "machinelearning"
   Author's Site: "https://www.eugeneupston.com/"
 
