@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine
+title: Machine Learning
 
 ---
 # Audio Classifier Using Convolutional Neural Networks
