@@ -1,3 +1,6 @@
+---
+title: Machine Learning
+---
 
 # Classification of Spotify Genres Using Machine Learning 
 
