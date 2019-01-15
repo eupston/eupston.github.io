@@ -704,6 +704,3 @@ ipyd.Image(url='Convo_layer_one.gif', height=300, width=300)
 
 
 
-```python
-
-```
