@@ -1,6 +1,6 @@
 ---
 layout: page
-title: final_project
+title: Machine Learning
 ---
 # Audio Classifier Using Convolutional Neural Networks
 
