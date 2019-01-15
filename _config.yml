@@ -24,6 +24,8 @@ description: Code Collections
 navbar-links:
   Machine Learning:
     - Audio CNN Classifier: "machinelearning"
+    - Spotify Genre Decision Tree: "MLspotify"
+
   Author's Site: "https://www.eugeneupston.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
