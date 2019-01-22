@@ -692,15 +692,4 @@ with tf.Session(graph= inference_graph) as sess:
 
 
 
-```python
-ipyd.Image(url='Convo_layer_one.gif', height=300, width=300)
-```
-
-
-
-
-<img src="Convo_layer_one.gif" width="300" height="300"/>
-
-
-
 
