@@ -10,13 +10,9 @@ subtitle:
 
 {: .box-note}
 **Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
