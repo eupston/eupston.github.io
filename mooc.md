@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computer Science Transcript
-subtitle: 
+title: 
+subtitle: Computer Science Transcript
 ---
 
 **Here is some bold text**
@@ -9,10 +9,14 @@ subtitle:
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Note:** Specialization.
+
+
+
+
+| Course | Certificate |
+| :------ |:--- |
+| Five | Six |
+| **Ten** | Eleven |
+| Seven | Eight |
+| Two | Three |
