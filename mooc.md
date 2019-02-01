@@ -4,13 +4,11 @@ title:
 subtitle: Computer Science Transcript
 ---
 
-**Here is some bold text**
 
-### Notification
+### Cs Transcript
 
 {: .box-note}
 **Note:** Specialization.
-
 
 
 
