@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MOOC Transcript
+title: CS Transcript
 subtitle: 
 ---
 
