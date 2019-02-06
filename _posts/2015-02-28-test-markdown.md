@@ -8,7 +8,7 @@ tags:
 comments: false
 ---
 
-**Here is some bold text**
+**Welcome to my code repository, my interests in coding include machine learning, Audio programming, DSP, and python.**
 
 ## Here is a secondary heading
 
