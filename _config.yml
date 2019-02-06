@@ -26,7 +26,7 @@ navbar-links:
     - Audio CNN Classifier: "machinelearning"
     - Spotify Genre Decision Tree: "MLspotify"
     
-  MOOC: "mooc"
+  CS Transcript: "mooc"
 
 
   Author's Site: "https://www.eugeneupston.com/"
