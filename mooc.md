@@ -20,3 +20,5 @@ subtitle:
 | Udemy | *Machine Learning A-Z™: Hands-On Python & R In Data Science* |[Certificate](http://ude.my/UC-LQCF5JY4) |
 | Udemy | *Python GUI Programming Recipes using PyQt5* |[Certificate](http://ude.my/UC-HISPK06G) |
 
+{: .box-note}
+**Fundamentals of Computing Specialization**
