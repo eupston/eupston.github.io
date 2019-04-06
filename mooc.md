@@ -26,7 +26,7 @@ subtitle:
 
 | **Institution** | **Course**              | **Certificate** | **Grade** |
 | :------ |:----------------------: |:--- |:--- |
-| Coursera | *An Introduction to Interactive Programming in Python (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/XUFURP5LLFEZA) | 95.7% |
+| Coursera | *An Introduction to Interactive Programming in Python (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/XUFURP5LLFEZ) | 95.7% |
 | Coursera | *An Introduction to Interactive Programming in Python (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/B58H8X6HM2T9) | 97.4% |
 | Coursera| *Principles of Computing (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/ZVEKXWQYNXB5) | 96.2% |
 | Coursera | *Principles of Computing (Part 2)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/T8AGHNXZ4XN7) |98.6% |
