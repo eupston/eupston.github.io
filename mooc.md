@@ -21,7 +21,7 @@ subtitle:
 | Udemy | *Python GUI Programming Recipes using PyQt5* |[Certificate](http://ude.my/UC-HISPK06G) |N/A |
 
 {: .box-note}
-**Fundamentals of Computing Specialization       |[Certificate](https://www.coursera.org/account/accomplishments/specialization/W9274F6U5KUC)**
+**Fundamentals of Computing Specialization**                           [Certificate](https://www.coursera.org/account/accomplishments/specialization/W9274F6U5KUC)
 
 
 | **Institution** | **Course**              | **Certificate** | **Grade** |
