@@ -32,4 +32,4 @@ subtitle:
 | Coursera | *Principles of Computing (Part 2)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/T8AGHNXZ4XN7) |98.6% |
 | Coursera | *Algorithmic Thinking (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/TN79FPV2EQX3)| 98.6% |
 | Coursera | *Algorithmic Thinking (Part 2)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/Y6HQFCVET4PR) | 94.8% |
-| Coursera | *The Fundamentals of Computing Capstone Exam* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/YP3TEGVGW35U) | 75.2% |
+| Coursera | *The Fundamentals of Computing Capstone Exam* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/YP3TEGVGW35U) | 87.2% |
