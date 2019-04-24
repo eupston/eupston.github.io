@@ -6,6 +6,14 @@ subtitle:
 
 
 {: .box-note}
+**Accredited Courses**
+
+| **Institution** | **Course**             | **Grade** |
+| :------ |:----------------------: |:--- |
+| University of Northern Iowa | CS 1520 Data Structures| 93% |
+
+
+{: .box-note}
 **Standalone Courses**
 
 
