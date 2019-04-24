@@ -6,7 +6,7 @@ subtitle:
 
 
 {: .box-note}
-**Accredited Courses**
+**Accredited University Courses**
 
 | **Institution** | **Course**             | **Transcript** | **Grade** |
 | :------ |:----------------------: |:--- |:--- |
