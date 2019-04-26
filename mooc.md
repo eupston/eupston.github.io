@@ -23,6 +23,8 @@ subtitle:
 | Stanford | *Computer Science 101* | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/51cd05dc05a54d99a43b7b7556a1fe89/Statement.pdf) | 100% |
 | SoloLearn | *Python 3 Tutorial Course* |[Certificate](https://www.sololearn.com/Certificate/1073-7741992/pdf/) | N/A |
 | SoloLearn| *C++ Tutorial Course* |[Certificate](https://www.sololearn.com/Certificate/1051-7741992/pdf/) | N/A |
+| SoloLearn| *Java Tutorial Course* |[Certificate](https://www.sololearn.com/Certificate/1068-7741992/pdf/) | N/A |
+| SoloLearn| *Javascript Tutorial Course* |[Certificate](https://www.sololearn.com/Certificate/1024-7741992/pdf/) | N/A |
 | Kadenze | *Real-Time Audio Signal Processing in Faust* |[Certificate](https://www.kadenze.com/certificates/X5LB54WZ) |N/A |
 | Kadenze | *Creative Applications of Deep Learning with TensorFlow* |[Certificate](https://www.kadenze.com/certificates/verified/S8RAG5MS?utm_campaign=certificate_share&utm_content=certificate%3DS8RAG5MS&utm_medium=share&utm_source=kadenze)|N/A |
 | Udemy | *Machine Learning A-Z™: Hands-On Python & R In Data Science* |[Certificate](http://ude.my/UC-LQCF5JY4) |N/A |
@@ -41,3 +43,15 @@ subtitle:
 | Coursera | *Algorithmic Thinking (Part 1)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/TN79FPV2EQX3)| 98.6% |
 | Coursera | *Algorithmic Thinking (Part 2)* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/Y6HQFCVET4PR) | 94.8% |
 | Coursera | *The Fundamentals of Computing Capstone Exam* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/YP3TEGVGW35U) | 87.2% |
+
+
+{: .box-note}
+ **Object Oriented Programming in Java** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/6X5ZCAE4VJKJ)
+
+
+| **Institution** | **Course**              | **Certificate** | **Grade** |
+| :------ |:----------------------: |:--- |:--- |
+| Coursera | *Java Programming: Solving Problems with Software* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/F2TGQ2M7QDXU) | 100.0% |
+| Coursera | *Java Programming: Arrays, Lists, and Structured Data* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/TXXK2HC6TVNR) | 94.6% |
+| Coursera| *Object Oriented Programming in Java* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/EZC2F7SQ5VXM) | 100.0% |
+| Coursera | *Data Structures and Performance* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/DJAQUK6V5XYN) | 99.0% |
