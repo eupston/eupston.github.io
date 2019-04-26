@@ -46,7 +46,7 @@ subtitle:
 
 
 {: .box-note}
- **Object Oriented Programming in Java Specialization**  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/6X5ZCAE4VJKJ)
+ **Object Oriented Programming in Java Specialization**  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/6X5ZCAE4VJKJ)
 
 
 | **Institution** | **Course**              | **Certificate** | **Grade** |
