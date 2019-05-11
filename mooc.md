@@ -55,3 +55,13 @@ subtitle:
 | Coursera | *Java Programming: Arrays, Lists, and Structured Data* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/TXXK2HC6TVNR) | 94.6% |
 | Coursera| *Object Oriented Programming in Java* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/EZC2F7SQ5VXM) | 100.0% |
 | Coursera | *Data Structures and Performance* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/DJAQUK6V5XYN) | 99.0% |
+
+{: .box-note}
+ **Statistics with Python Specialization**  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/5TBHBL72549G)
+
+
+| **Institution** | **Course**              | **Certificate** | **Grade** |
+| :------ |:----------------------: |:--- |:--- |
+| Coursera | *Understanding and Visualizing Data with Python* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/7QQ2NRAKAPFG) | 100.0% |
+| Coursera | *Inferential Statistical Analysis with Python* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/ETQ7Q7EEBXP7) | 99.0% |
+| Coursera| *Fitting Statistical Models to Data with Python* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/ZZFY2B5NXF2Y) | 99.2% |
