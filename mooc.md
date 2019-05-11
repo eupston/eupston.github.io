@@ -57,7 +57,7 @@ subtitle:
 | Coursera | *Data Structures and Performance* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/DJAQUK6V5XYN) | 99.0% |
 
 {: .box-note}
- **Statistics with Python Specialization**  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/5TBHBL72549G)
+ **Statistics with Python Specialization**  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Certificate](https://www.coursera.org/account/accomplishments/specialization/5TBHBL72549G)
 
 
 | **Institution** | **Course**              | **Certificate** | **Grade** |
