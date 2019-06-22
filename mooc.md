@@ -29,6 +29,7 @@ subtitle:
 | Kadenze | *Creative Applications of Deep Learning with TensorFlow* |[Certificate](https://www.kadenze.com/certificates/verified/S8RAG5MS?utm_campaign=certificate_share&utm_content=certificate%3DS8RAG5MS&utm_medium=share&utm_source=kadenze)|N/A |
 | Udemy | *Machine Learning A-Z™: Hands-On Python & R In Data Science* |[Certificate](http://ude.my/UC-LQCF5JY4) |N/A |
 | Udemy | *Python GUI Programming Recipes using PyQt5* |[Certificate](http://ude.my/UC-HISPK06G) |N/A |
+| Udemy | *Beginning C++ Programming - From Beginner to Beyond* |[Certificate](https://www.udemy.com/certificate/UC-NQH60I3G/)|N/A |
 | Coursera | *Mathematics for Machine Learning: Linear Algebra* |[Certificate](https://www.coursera.org/account/accomplishments/certificate/Z58HZJ9G4U3X) | 96% |
 
 {: .box-note}
