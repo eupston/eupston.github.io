@@ -27,6 +27,7 @@ subtitle:
 | SoloLearn| *Javascript Tutorial Course* |[Certificate](https://www.sololearn.com/Certificate/1024-7741992/pdf/) | N/A |
 | Kadenze | *Real-Time Audio Signal Processing in Faust* |[Certificate](https://www.kadenze.com/certificates/X5LB54WZ) |N/A |
 | Kadenze | *Creative Applications of Deep Learning with TensorFlow* |[Certificate](https://www.kadenze.com/certificates/verified/S8RAG5MS?utm_campaign=certificate_share&utm_content=certificate%3DS8RAG5MS&utm_medium=share&utm_source=kadenze)|N/A |
+| Kadenze | *Intro to Audio Plugin Development* |[Certificate](https://www.kadenze.com/certificates/8U9ZJFFY)|N/A |
 | Udemy | *Machine Learning A-Z™: Hands-On Python & R In Data Science* |[Certificate](http://ude.my/UC-LQCF5JY4) |N/A |
 | Udemy | *Python GUI Programming Recipes using PyQt5* |[Certificate](http://ude.my/UC-HISPK06G) |N/A |
 | Udemy | *Beginning C++ Programming - From Beginner to Beyond* |[Certificate](https://www.udemy.com/certificate/UC-NQH60I3G/)|N/A |
